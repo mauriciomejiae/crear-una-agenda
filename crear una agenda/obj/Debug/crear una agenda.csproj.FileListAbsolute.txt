@@ -1,0 +1,6 @@
+C:\Users\Mauricio M\Downloads\crear una agenda\crear una agenda\bin\Debug\crear una agenda.exe.config
+C:\Users\Mauricio M\Downloads\crear una agenda\crear una agenda\bin\Debug\crear una agenda.exe
+C:\Users\Mauricio M\Downloads\crear una agenda\crear una agenda\bin\Debug\crear una agenda.pdb
+C:\Users\Mauricio M\Downloads\crear una agenda\crear una agenda\obj\Debug\crear una agenda.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio M\Downloads\crear una agenda\crear una agenda\obj\Debug\crear una agenda.exe
+C:\Users\Mauricio M\Downloads\crear una agenda\crear una agenda\obj\Debug\crear una agenda.pdb
